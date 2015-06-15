@@ -1,0 +1,23 @@
+{
+  "name": "GitHub2TeamPulse",
+  "version": "0.0.1",
+  "description": "Export GitHub issues to TeamPulse",
+  "license": "MIT",
+  "repository": "lini/GitHub2TeamPulse",
+  "author": {
+    "name": "Telerik",
+    "email": "",
+    "url": "https://github.com/telerik/"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "teampulse",
+    "github",
+    "issues"
+  ],
+  "dependencies": {
+    "async": "*"
+  }
+}
